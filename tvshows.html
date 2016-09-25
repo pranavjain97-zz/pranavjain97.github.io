@@ -2,8 +2,58 @@
 <html>
     <head>
        <title> WATERLOO SURVEY </TITLE>
-       <script src="js/script.js"> </script>
-       <link rel="stylesheet" type="text/css" href="./csshw.css"/>
+       <script>
+function savetoCookie(value,onCompletion) {
+
+
+
+var cookievalue=value;
+document.cookie+=cookievalue;
+ onCompletion(cookievalue);   
+}
+
+function saveprofile() { 
+    var profilevalue=document.getElementsByName('ID')[0].value; 
+    savetoCookie(profilevalue,Success);
+
+}
+
+
+function Success(result) {
+ window.alert('Your Waterloo ID '+ result+ ' has been saved successfully to our local storage!') ;
+}
+
+
+function savechoice() {
+var choicevalue; 
+var choicemaker=document.getElementsByName('show');
+ for(var i=0;i<choicemaker.length;i++) {
+  if(choicemaker[i].checked)
+   {choicevalue=choicemaker[i].value;
+   break;}
+ }
+ savetoCookie(choicevalue,Success2);
+}
+
+
+function Success2(result) {
+ window.alert('Your Tv show choice '+ result+ ' has been submitted!') ;
+}
+        
+        </script>
+        
+    <style>
+.imdb{ height:20px; 
+    width:50px;
+    }
+
+.showimg { height:200px;
+         width:500px;
+         position:relative;
+         margin-left:300px;
+         
+        </style>
+
     </head>
 
     <body>
@@ -21,7 +71,7 @@
             
             
             <figure> 
-                <img  class="showimg" height="50" width="50" src="http://i.amz.mshcdn.com/FjFzcnpYiYohCTaLvhOyYVfhcJo=/356x205/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fstory%2Fthumbnail%2F13134%2FGame_of_Thrones_title_card.jpg"  alt="game of thrones" />
+                <img  class="showimg"  src="http://i.amz.mshcdn.com/FjFzcnpYiYohCTaLvhOyYVfhcJo=/356x205/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fstory%2Fthumbnail%2F13134%2FGame_of_Thrones_title_card.jpg"  alt="game of thrones" />
                 <figcaption><em> The famous opening theme</em> </figcaption> 
             </figure>
         </article>
@@ -30,7 +80,7 @@
             <a href="http://www.imdb.com/title/tt0903747/?ref_=nv_sr_1"> <img class="imdb" src="http://thebutchershop.ca/system/wp-content/uploads/IMDb_Logo.png"/> </a> </br>
             <p> When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students. The series tracks the impacts of a fatal diagnosis on a regular, hard working man, and explores how a fatal diagnosis affects his morality and transforms him into a major player of the drug trade. </p> 
             <figure> 
-                <img height="50" width="50" class="showimg" src="http://vignette3.wikia.nocookie.net/breakingbad/images/a/a1/Breaking_Bad_Title_Sequence.jpg/revision/latest?cb=20130705034816" />
+                <img  class="showimg" src="http://vignette3.wikia.nocookie.net/breakingbad/images/a/a1/Breaking_Bad_Title_Sequence.jpg/revision/latest?cb=20130705034816" />
                 <figcaption> <em>The High Feel Theme</em></figcaption> 
             </figure>
 
