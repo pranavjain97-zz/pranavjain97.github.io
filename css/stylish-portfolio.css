@@ -857,10 +857,12 @@ body{
 ul.social-buttons {
   text-align: center;
   margin-top: 50px;
-    position:absolute;
+
+ position:absolute;
+
     bottom: 0;
     width: 100%;
-    z-index:1;
+   
      
   
     
