@@ -857,6 +857,7 @@ body{
 ul.social-buttons {
   text-align: center;
   margin-top: 50px;
+ position:relative;
     bottom: 0;
     width: 100%;
    
