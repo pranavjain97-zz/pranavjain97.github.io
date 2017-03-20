@@ -5,6 +5,7 @@
  */
 
 /* Global Styles */
+@import url(http://weloveiconfonts.com/api/?family=brandico);
 
 html,
 body {
@@ -187,6 +188,7 @@ hr.small {
     height: 200px;
     color: #fff;
     background: url(../img/callout.gif) no-repeat center center scroll;
+  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -225,6 +227,7 @@ hr.small {
 
 .map {
     height: 500px;
+
 }
 
 @media(max-width:768px) {
@@ -235,6 +238,8 @@ hr.small {
 
 .map iframe {
     pointer-events: none;
+
+
 }
 
 /* Footer */
@@ -324,6 +329,7 @@ span {
   list-style: none;
   padding: 0;
   position: relative;
+  z-index:0;
 }
 .timeline:before {
   top: 0;
@@ -640,3 +646,212 @@ span {
 .tilesSpace{
     margin-top:28px;
 }
+
+.contactBack{
+    display: table;
+    width: 100%;
+    height: 200px;
+    color: #fff;
+    background: url(../img/callout.gif) center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
+
+.grid {
+	padding: 20px 20px 100px 20px;
+	max-width: 1300px;
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+}
+
+.grid li {
+	display: inline-block;
+	width: 440px;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	position: relative;
+}
+
+.grid figure {
+	margin: 0;
+	position: relative;
+}
+
+.grid figure img {
+	max-width: 100%;
+	display: block;
+	position: relative;
+}
+
+.grid figcaption {
+	position: absolute;
+	top: 0px;
+	left: 0;
+	padding: 20px;
+	border-top: 1px solid white;
+	background: black;
+	color: #00A4C4;
+	/* ed4e6e;*/
+}
+
+.grid figcaption h3 {
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+
+.grid figcaption a {
+	text-align: center;
+	padding: 5px 10px;
+	border-radius: 2px;
+	display: inline-block;
+	background: #00A4C4;
+	color: #fff;
+}
+
+.cs-style-3 figure {
+	overflow: hidden;
+}
+
+.cs-style-3 figure img {
+	-webkit-transition: -webkit-transform 0.4s;
+	-moz-transition: -moz-transform 0.4s;
+	transition: transform 0.4s;
+}
+
+.cs-style-3 figure:hover img {
+	-webkit-transform: translateY(-50px);
+	-moz-transform: translateY(-50px);
+	-ms-transform: translateY(-50px);
+	transform: translateY(-50px);
+}
+
+.cs-style-3 figcaption {
+	height: 100px;
+	width: 100%;
+	top: auto;
+	bottom: 0;
+	opacity: 0;
+	-webkit-transform: translateY(100%);
+	-moz-transform: translateY(100%);
+	-ms-transform: translateY(100%);
+	transform: translateY(100%);
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+	transition: transform 0.4s, opacity 0.1s 0.3s;
+}
+
+.cs-style-3 figure:hover figcaption {
+	opacity: 1;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	-ms-transform: translateY(0px);
+	transform: translateY(0px);
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+	-moz-transition: -moz-transform 0.4s, opacity 0.1s;
+	transition: transform 0.4s, opacity 0.1s;
+}
+
+.cs-style-3 figcaption a {
+	position: absolute;
+	bottom: 2px;
+	right: 20px;
+}
+
+body{
+    position:relative !important;
+    }
+.well{
+    height:23vmax;
+    width:28vw;
+    }
+#well_2{
+    position:absolute;
+    top:0;
+    left:-10;
+    z-index:-1;
+    opacity:0;
+     transition:all 1s ease-in;
+    }
+#well_1{
+    transition:all 1s ease-in;
+    }
+#well_1:hover{
+    opacity:0;
+    transform:translateX(-100px);
+    }
+
+  #well_1:hover+#well_2{
+    opacity:1;
+    transform:translateX(10px);
+    }
+
+    .proj{
+        width:445px;
+        height:227px;
+
+    }
+
+
+
+
+
+
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
+ul.social-buttons {
+  text-align: center;
+  margin-top: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index:1;
+     
+  
+    
+}
+
+ul.social-buttons li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+ul.social-buttons li a {
+  width: 47px;
+  height: 47px;
+  display: block;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 30px;
+  line-height: 60px;
+  color: white;
+}
+
+
+ul.social-buttons li a.brandico-linkedin {
+  background-color:white;
+  color:black;
+}
+
+ul.social-buttons li a.brandico-github {
+  background-color:black;
+}
+/*Demo 1*/
+ul#demo1 li a {
+  transition: transform 0.2s linear;
+}
+
+ul#demo1 li:hover a {
+  transform: translateY(-10px);
+}
+
