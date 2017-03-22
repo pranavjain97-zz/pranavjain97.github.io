@@ -771,8 +771,8 @@ body{
     position:relative !important;
     }
 .well{
-    height:23vmax;
-    width:28vw;
+    height:22vmax;
+    width:26vw;
     }  
 #well_2{
     position:absolute;
@@ -927,3 +927,10 @@ ul#demo1 li:hover a {
             animation-name: bounce; 
          }
          #text { width: 0px; height: 2em; white-space: nowrap; overflow: hidden;  }
+
+
+         .moveUp{
+
+         margin-top:10px;
+
+         }
