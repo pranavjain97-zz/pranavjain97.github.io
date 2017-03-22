@@ -772,7 +772,7 @@ body{
     }
 .well{
     height:22vmax;
-    width:26vw;
+    width:25vw;
     }  
 #well_2{
     position:absolute;
@@ -934,3 +934,17 @@ ul#demo1 li:hover a {
          margin-top:10px;
 
          }
+
+.section-title {
+    margin-bottom: 70px;
+    margin-left: 34%;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    line-height: 1.4;
+    font-family: Courier;
+    background-color: white;
+    color:black;
+}
