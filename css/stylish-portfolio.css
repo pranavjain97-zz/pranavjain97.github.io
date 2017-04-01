@@ -157,11 +157,16 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg.gif) no-repeat center center scroll;
+    background: url(../img/bg.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* About */
@@ -277,10 +282,10 @@ h1, h2 {
    }
 
 .robot2{ display:inline-block;
-  background-color: black;
-    color:white;
+
+    color:black;
     font-weight: bold;
-    border: 0.1px solid black;
+
    }
 
 
@@ -857,16 +862,16 @@ body{
 
 ul.social-buttons {
   text-align: center;
-position:fixed;
-  margin-left:-49.3%;
+/*position:absolute;*/
+    margin-top: 2%;
+    margin-left:-1.5%;
     width: 100%;
- margin-top:-9%;   
- z-index:2; 
+
 }
 
 ul.social-buttons li {
   display: inline-block;
-  margin: 0 10px;
+
 }
 
 ul.social-buttons li a {
@@ -895,7 +900,7 @@ ul#demo1 li a {
 }
 
 ul#demo1 li:hover a {
-  transform: translateX(10px);
+  transform: translateY(-10px);
 }
 
 .animated { 
