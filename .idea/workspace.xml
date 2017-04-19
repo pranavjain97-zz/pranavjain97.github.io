@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c34211e-e715-441d-a6f7-aace3c385bc8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/css/stylish-portfolio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pranavjain97.github.io$descriptionAppender.coverage" NAME="descriptionAppender Coverage Results" MODIFIED="1490169875449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../LeetcodePractice" />
+    <SUITE FILE_PATH="coverage/pranavjain97.github.io$descriptionAppender.coverage" NAME="descriptionAppender Coverage Results" MODIFIED="1490169875449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LeetcodePractice" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -25,14 +25,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="61" column="37" lean-forward="false" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+            <state relative-caret-position="72">
+              <caret line="250" column="60" lean-forward="false" selection-start-line="250" selection-start-column="60" selection-end-line="250" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -44,22 +45,77 @@
                 <element signature="n#style#0;n#blockquote#0;n#div#2;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylish-portfolio.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <file leaf-file-name="muser.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/muser.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="music.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/music.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messaging.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/messaging.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messenger.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/messenger.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="billingSystem.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/billingSystem.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="red-music-cd-icon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projects/red-music-cd-icon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projectsBg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projectsBg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mySheet.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/mySheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="292" column="35" lean-forward="true" selection-start-line="292" selection-start-column="35" selection-end-line="292" selection-end-column="35" />
+            <state relative-caret-position="385">
+              <caret line="544" column="64" lean-forward="true" selection-start-line="544" selection-start-column="64" selection-end-line="544" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -68,59 +124,10 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="1374" column="14" lean-forward="true" selection-start-line="1374" selection-start-column="14" selection-end-line="1374" selection-end-column="14" />
+            <state relative-caret-position="1065">
+              <caret line="6095" column="1" lean-forward="true" selection-start-line="6095" selection-start-column="1" selection-end-line="6095" selection-end-column="1" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/4.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/profile.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="idea.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/idea.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hgg.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/hgg.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="h.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/h.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="giphy (1).gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/giphy (1).gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="callout.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/callout.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -135,21 +142,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tiles</find>
-      <find>Buy Now!</find>
-      <find>callout</find>
       <find>call</find>
       <find>padding: 19p</find>
       <find>head</find>
       <find>.well{</find>
-      <find>proj</find>
       <find>well {</find>
       <find>well{</find>
       <find>contact</find>
       <find>port</find>
-      <find>portfolio</find>
       <find>projects</find>
-      <find>body</find>
       <find>experie</find>
       <find>font-family</find>
       <find>my work</find>
@@ -165,6 +166,12 @@
       <find>my skils</find>
       <find>robot2</find>
       <find>social</find>
+      <find>portfolio</find>
+      <find>callout</find>
+      <find>body</find>
+      <find>grid</find>
+      <find>proj</find>
+      <find>skills</find>
     </findStrings>
     <replaceStrings>
       <replace>Github</replace>
@@ -182,20 +189,21 @@
         <option value="$PROJECT_DIR$/startbootstrap-scrolling-nav-gh-pages/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/frontpage.css" />
         <option value="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-freelancer-gh-pages/css/frontpage.css" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-freelancer-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/css/agency.css" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/less/agency.less" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/scss/agency.scss" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/css/stylish-portfolio.css" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/../../Helper content/startbootstrap-1-col-portfolio-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/../../LeetcodePractice/descriptionAppender.py" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-freelancer-gh-pages/css/frontpage.css" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-freelancer-gh-pages/index.html" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/index.html" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/css/agency.css" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/less/agency.less" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/scss/agency.scss" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.css" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/css/stylish-portfolio.css" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/index.html" />
+        <option value="$USER_HOME$/Helper content/startbootstrap-1-col-portfolio-gh-pages/index.html" />
+        <option value="$USER_HOME$/LeetcodePractice/descriptionAppender.py" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/mySheet.css" />
       </list>
     </option>
   </component>
@@ -206,10 +214,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1102" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -226,6 +234,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,13 +296,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../startbootstrap-3-col-portfolio-gh-pages" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -315,13 +323,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../LeetcodePractice" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/LeetcodePractice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pranavjain97.github.io" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../LeetcodePractice/descriptionAppender.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/LeetcodePractice/descriptionAppender.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -569,14 +577,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5709812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20323451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3344017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3441763" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -603,163 +611,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/img/t.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/img/tt.gif" />
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/img/wr.gif" />
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/img/bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/thumbnails/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/thumbnails/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/fullsize/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/fullsize/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/fullsize/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/img/portfolio/fullsize/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/css/creative.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/css/creative.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="417" column="0" lean-forward="true" selection-start-line="417" selection-start-column="0" selection-end-line="417" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="214" column="38" lean-forward="true" selection-start-line="214" selection-start-column="38" selection-end-line="214" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/css/agency.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/portfolio/dreams.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/portfolio/escape.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/portfolio/golden.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/portfolio/roundicons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/portfolio/startup-framework.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/logos/creative-market.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/logos/envato.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/img/about/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-agency-gh-pages/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="535" column="1" lean-forward="false" selection-start-line="369" selection-start-column="0" selection-end-line="535" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-freelancer-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="152" column="14" lean-forward="false" selection-start-line="83" selection-start-column="7" selection-end-line="152" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/img/portfolio-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-creative-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="112" column="35" lean-forward="false" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="1117" column="16" lean-forward="false" selection-start-line="1117" selection-start-column="16" selection-end-line="1117" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/css/stylish-portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="640" column="20" lean-forward="false" selection-start-line="640" selection-start-column="20" selection-end-line="640" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-stylish-portfolio-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-creative-gh-pages/css/creative.min.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-creative-gh-pages/css/creative.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/index.html" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/css/agency.min.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/portfolio/dreams.png" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/portfolio/escape.png" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/portfolio/golden.png" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/portfolio/roundicons.png" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/portfolio/startup-framework.png" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/logos/creative-market.jpg" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/logos/envato.jpg" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/img/about/1.jpg" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-agency-gh-pages/css/agency.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-freelancer-gh-pages/index.html" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/img/portfolio-1.jpg" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-creative-gh-pages/index.html" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/css/stylish-portfolio.css" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-stylish-portfolio-gh-pages/index.html" />
     <entry file="file://$PROJECT_DIR$/media/waterloo_answers.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -777,20 +647,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/projects/messenger.jpg" />
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-1-col-portfolio-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="85" column="64" lean-forward="false" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Helper content/startbootstrap-heroic-features-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="71" column="17" lean-forward="true" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-1-col-portfolio-gh-pages/index.html" />
+    <entry file="file://$USER_HOME$/Helper content/startbootstrap-heroic-features-gh-pages/index.html" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -805,16 +663,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../LeetcodePractice/descriptionAppender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="52" column="52" lean-forward="false" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/LeetcodePractice/descriptionAppender.py" />
     <entry file="file://$PROJECT_DIR$/img/34.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -860,16 +709,78 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/red-music-cd-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/music.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/messaging.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/billingSystem.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/messenger.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/muser.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="6095" column="1" lean-forward="true" selection-start-line="6095" selection-start-column="1" selection-end-line="6095" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectsBg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="61" column="37" lean-forward="false" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        <state relative-caret-position="72">
+          <caret line="250" column="60" lean-forward="false" selection-start-line="250" selection-start-column="60" selection-end-line="250" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -881,28 +792,26 @@
             <element signature="n#style#0;n#blockquote#0;n#div#2;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/css/mySheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="1374" column="14" lean-forward="true" selection-start-line="1374" selection-start-column="14" selection-end-line="1374" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="292" column="35" lean-forward="true" selection-start-line="292" selection-start-column="35" selection-end-line="292" selection-end-column="35" />
+        <state relative-caret-position="385">
+          <caret line="544" column="64" lean-forward="true" selection-start-line="544" selection-start-column="64" selection-end-line="544" selection-end-column="64" />
           <folding />
         </state>
       </provider>
