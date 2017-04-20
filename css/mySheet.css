@@ -278,7 +278,7 @@ hr.small {
 }
 
 .proj{
-        width:600px;
+        width:380px;
         height:300px;
 
     }
@@ -370,7 +370,7 @@ footer {
 h1, h2 {
   display: inline-block;
   background: black;
- color:white;
+ color:#c1f8f9;
 }
 
 .link{ display:inline-block;
@@ -523,12 +523,17 @@ span {
 
 .portfolio-modal .modal-content {
   border-radius: 0;
-  background-clip: border-box;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  border: none;
-  min-height: 100%;
-  padding: 100px 0;
+  /*background-clip: border-box;*/
+  /*-webkit-box-shadow: none;*/
+  /*box-shadow: none;*/
+  /*border: none;*/
+  height:92%;
+    width:70%;
+    margin-left:16%;
+
+    margin-top:2%;
+    margin-bottom: 2%;
+  /*padding: 100px;*/
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
