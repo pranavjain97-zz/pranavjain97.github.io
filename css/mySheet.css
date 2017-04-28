@@ -450,8 +450,8 @@ span {
 
 
 	display: inline-block;
-	width: 440px;
-	margin: 0;
+	width: 400px;
+	/*margin: 0;*/
 	padding: 30px;
 	text-align: left;
 	position: relative;
@@ -576,6 +576,7 @@ span {
   background-color: transparent;
   top: 25px;
   right: 25px;
+  z-index: 1;
   cursor: pointer;
 }
 .portfolio-modal .close-modal:hover {
@@ -608,6 +609,16 @@ span {
   opacity: 0;
   display: none;
 }
+
+.modal-body {
+    text-align: center;
+    left:-20%;
+}
+
+.star-primary{
+ width:700px;
+}
+
 
 /*************************** CONTACT ME *****************************/
 
