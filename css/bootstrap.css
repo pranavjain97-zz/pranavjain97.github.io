@@ -1371,11 +1371,7 @@ a.text-danger:hover,
 a.text-danger:focus {
   color: #843534;
 }
-.bg-primary {
-  color: #fff;
-  background-image:url("../img/callout.gif");
 
-}
 a.bg-primary:hover,
 a.bg-primary:focus {
   background-color: #286090;
