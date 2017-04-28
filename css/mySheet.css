@@ -415,6 +415,29 @@ span {
     padding-left: 20px;
 }
 
+#services ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 330px;
+    margin-top:15px;
+}
+
+#services li{
+
+    display: inline-block;
+    margin: 7px;
+    padding: 8px 14px;
+    color: black;
+    background: #ffffff;
+    list-style: none;
+    cursor: default;
+    font-size: 1.3em
+}
+
+
+
+
 
 /************************** PROJECTS *************************/
 
@@ -593,7 +616,7 @@ span {
     width: 100%;
 
     color: #fff;
-    background: url(../img/projectsBg.png) center center scroll;
+    background: url(../img/contacts.png) center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -661,3 +684,5 @@ ul#demo1 li:hover a {
 
     background-color:transparent;
 }
+
+
