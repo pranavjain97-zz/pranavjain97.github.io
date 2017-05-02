@@ -279,7 +279,7 @@ hr.small {
 
 .proj{
         width:380px;
-        height:300px;
+        height:280px;
 
     }
 /*
@@ -611,8 +611,8 @@ span {
 }
 
 .modal-body {
-    text-align: center;
-    left:-20%;
+    position:absolute;
+    left:-1em;
 }
 
 .star-primary{
