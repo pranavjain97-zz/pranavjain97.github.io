@@ -693,7 +693,8 @@ ul#demo1 li:hover a {
 
 .navbar-default{
 
-    background-color:transparent;
+    background-color:#c1f7f8;
+    border-color: transparent;
 }
 
 
