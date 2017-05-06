@@ -78,6 +78,10 @@ hr.small {
     padding: 50px 0;
 }
 
+.about p{
+    font-size: larger;
+}
+
 /************ Work Experience ***********/
 
 .section-title {
@@ -546,18 +550,15 @@ span {
 
 .portfolio-modal .modal-content {
   border-radius: 0;
-  /*background-clip: border-box;*/
-  /*-webkit-box-shadow: none;*/
-  /*box-shadow: none;*/
-  /*border: none;*/
-  height:92%;
-    width:70%;
-    margin-left:16%;
+  background-clip: border-box;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+  min-height: 100%;
+  padding: 100px 0;
+  text-align: left;
+    font-size: 15px;
 
-    margin-top:2%;
-    margin-bottom: 2%;
-  /*padding: 100px;*/
-  text-align: center;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
@@ -576,7 +577,6 @@ span {
   background-color: transparent;
   top: 25px;
   right: 25px;
-  z-index: 1;
   cursor: pointer;
 }
 .portfolio-modal .close-modal:hover {
@@ -611,12 +611,22 @@ span {
 }
 
 .modal-body {
-    position:absolute;
-    left:-1em;
+margin-left: -15%;
+    margin-right: -15%;
+    margin-top: -5%;
 }
 
-.star-primary{
- width:700px;
+.portfolio-modal a{
+
+    	text-align: center;
+	padding: 15px 20px;
+	border-radius: 2px;
+	display: inline-block;
+	background: #00A4C4;
+	color: #fff;
+    margin-top: 25px;
+
+
 }
 
 
@@ -696,5 +706,6 @@ ul#demo1 li:hover a {
     background-color:#c1f7f8;
     border-color: transparent;
 }
+
 
 
